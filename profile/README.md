@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="../logo/logo.png" width="200" alt="Lab Logo">
-
-  <h1>🤖 Embodied AI Safety Lab</h1>
-
+  <img src="../logo/logo.png" alt="Lab Logo">
   <p>
     <strong>Ensuring the Robustness, Security, and Alignment of Intelligent Agents in the Physical World.</strong>
   </p>
@@ -34,10 +31,7 @@ Welcome to the **Embodied AI Safety Lab**. We are dedicated to bridging the gap 
 
 ### 🛡️ Core Research Areas
 
-| **Perception Robustness** | **Safe Control & RL** | **Value Alignment** |
-| :---: | :---: | :---: |
-| <div align="center">👁️</div> | <div align="center">🦾</div> | <div align="center">🤝</div> |
-| Defending adversarial attacks on vision-based robotic systems in dynamic environments. | Ensuring safety constraints in Reinforcement Learning and sim-to-real transfer. | aligning robot behaviors with human values and ethical constraints. |
+Research Areas
 
 ---
 
@@ -121,19 +115,13 @@ We are always looking for motivated students and collaborators interested in **T
 * **PhD Students:** Strong background in ML/Robotics.
 * **Research Interns:** Familiar with PyTorch/ROS.
 
-<details>
-<summary>👉 <b>Click to see how to apply</b></summary>
-<br>
-
 1. Read our [Recent Publications](../Publications/Publications.md) to ensure a research fit.
 2. Send an email to `contact@your-lab.edu`.
 3. Subject: `[Application] PhD/Intern - Your Name`.
 4. Attach your CV and a brief statement of interest.
 
-</details>
-
-<br>
 
 <div align="center">
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
