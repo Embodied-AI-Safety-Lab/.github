@@ -42,7 +42,7 @@ Welcome to the **Embodied AI Safety Lab**. We are dedicated to bridging the gap 
 
 ## 📚 Featured Publications
 
-
+[Full Publication List](../Publications/Publications.md).
 ---
 
 ## 💻 Open Source Projects
@@ -85,6 +85,7 @@ If you are interested in working with us:
   <br>
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
 
 
