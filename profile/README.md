@@ -37,9 +37,9 @@ Research Areas
 
 ## 📢 News & Updates
 
-* **[2024-05]** 🎉 Our paper on *Robust Grasping* was accepted to **RSS 2024**!
-* **[2024-02]** 🏆 We won the *Best System Award* at the Embodied AI Workshop.
-* **[2023-12]** 🚀 New open-source simulator `Safe-Sim` released. [Check it out](#).
+* **[2024-05]** 🎉 
+* **[2024-02]** 🏆 
+* **[2023-12]** 🚀 
 
 ---
 
@@ -124,4 +124,5 @@ We are always looking for motivated students and collaborators interested in **T
 <div align="center">
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
