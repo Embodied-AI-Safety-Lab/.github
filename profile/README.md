@@ -79,13 +79,13 @@ We are a diverse team of researchers, engineers, and students passionate about A
 We are always looking for motivated students and collaborators interested in **Trustworthy Embodied AI**.
 If you are interested in working with us:
 1.  Read our [Recent Publications](../Publications/Publications.md).
-2.  Check out our [Open Positions](#).
-3.  Send an email to `contact@your-lab.edu` with your CV and a brief statement of interest.
+2.  Send an email to `contact@your-lab.edu` with your CV and a brief statement of interest.
 
 <div align="center">
   <br>
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
 
 
