@@ -1,24 +1,30 @@
 <div align="center">
-  <img src="../logo/logo.png"  alt="Lab Logo">
-  
-  
+  <img src="../logo/logo.png" width="200" alt="Lab Logo">
+
+  <h1>🤖 Embodied AI Safety Lab</h1>
+
   <p>
     <strong>Ensuring the Robustness, Security, and Alignment of Intelligent Agents in the Physical World.</strong>
   </p>
 
   <p>
     <a href="https://your-lab-website.com">
-      <img src="https://img.shields.io/badge/Website-Visit_Us-blue?style=flat&logo=safari" alt="Website">
+      <img src="https://img.shields.io/badge/Website-Visit_Us-0056D2?style=for-the-badge&logo=safari&logoColor=white" alt="Website">
     </a>
     <a href="https://twitter.com/your_lab">
-      <img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=flat&logo=twitter" alt="Twitter">
+      <img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="mailto:contact@your-lab.edu">
-      <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=flat&logo=gmail" alt="Email">
+      <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-     <img src="https://img.shields.io/badge/Focus-Embodied_AI_Safety-success?style=flat" alt="Focus">
+  </p>
+   <p>
+    <img src="https://img.shields.io/badge/Focus-Embodied_AI_Safety-2ea44f?style=flat-square" alt="Focus">
+    <img src="https://img.shields.io/badge/Research-Robotics_&_Vision-blueviolet?style=flat-square" alt="Research">
   </p>
 </div>
+
+<br />
 
 ---
 
@@ -26,35 +32,41 @@
 
 Welcome to the **Embodied AI Safety Lab**. We are dedicated to bridging the gap between advanced artificial intelligence and safe physical deployment. Our research focuses on identifying vulnerabilities in robotic perception and control, developing robust defense mechanisms, and ensuring human-robot value alignment.
 
-### 🛡️ Our Core Research Areas
+### 🛡️ Core Research Areas
 
-Research Areas
+| **Perception Robustness** | **Safe Control & RL** | **Value Alignment** |
+| :---: | :---: | :---: |
+| <div align="center">👁️</div> | <div align="center">🦾</div> | <div align="center">🤝</div> |
+| Defending adversarial attacks on vision-based robotic systems in dynamic environments. | Ensuring safety constraints in Reinforcement Learning and sim-to-real transfer. | aligning robot behaviors with human values and ethical constraints. |
 
 ---
 
 ## 📢 News & Updates
 
-* **[2024-05]** 🎉 
-* **[2024-02]** 🏆 
-* **[2023-12]** 🚀 
+* **[2024-05]** 🎉 Our paper on *Robust Grasping* was accepted to **RSS 2024**!
+* **[2024-02]** 🏆 We won the *Best System Award* at the Embodied AI Workshop.
+* **[2023-12]** 🚀 New open-source simulator `Safe-Sim` released. [Check it out](#).
 
 ---
 
-## 📚 Featured Publications
+## 📝 Selected Publications
 
-[Full Publication List](../Publications/Publications.md).
+> *For a complete list of our work, please visit [Full Publications](../Publications/Publications.md).*
+
+**[CVPR 2024] Title of Your Best Paper** *Author A, Author B, Author C* [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](link-to-pdf) [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](link-to-repo) [![Page](https://img.shields.io/badge/Project-Page-blue?style=flat-square)](link-to-page)
+
+**[ICRA 2024] Another Great Robotics Paper** *Author A, Author D, Author E* [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](link-to-pdf) [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](link-to-repo)
 
 ---
 
 ## 💻 Open Source Projects
 
-We believe in open science. Here are some of our maintained repositories:
+We believe in open science and reproducible research.
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[🧠 Project](#)** | Description | Tech Stack |
-
-> *Check our [Repositories](https://github.com/orgs/Embodied-AI-Safety-Lab/repositories) tab for a complete list of our work.*
+| Project | Description | Tech | Stars |
+| :--- | :--- | :--- | :---: |
+| **[🧠 Project-A](#)** | A robust perception framework for navigation. | `PyTorch` `ROS2` | ![Stars](https://img.shields.io/github/stars/Embodied-AI-Safety-Lab/Project-A?style=social) |
+| **[🛡️ Project-B](#)** | Benchmarking tool for adversarial attacks on manipulators. | `Isaac Gym` `Python` | ![Stars](https://img.shields.io/github/stars/Embodied-AI-Safety-Lab/Project-B?style=social) |
 
 ---
 
@@ -64,11 +76,38 @@ We are a diverse team of researchers, engineers, and students passionate about A
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/github.png" width="60px;" alt=""/><br /><sub><b>Prof. Name</b></sub><br /><i>Principal Investigator</i></td>
-    <td align="center"><img src="https://github.com/github.png" width="60px;" alt=""/><br /><sub><b>Researcher A</b></sub><br /><i>Postdoc</i></td>
-    <td align="center"><img src="https://github.com/github.png" width="60px;" alt=""/><br /><sub><b>Student B</b></sub><br /><i>PhD Candidate</i></td>
-    <td align="center"><img src="https://github.com/github.png" width="60px;" alt=""/><br /><sub><b>Student C</b></sub><br /><i>PhD Candidate</i></td>
-    <td align="center"><img src="https://github.com/github.png" width="60px;" alt=""/><br /><sub><b>Student D</b></sub><br /><i>Master Student</i></td>
+    <td align="center">
+      <a href="link_to_profile">
+        <img src="https://github.com/github.png" width="100px;" alt="" style="border-radius:50%"/>
+      </a>
+      <br />
+      <sub><b>Prof. Name</b></sub><br />
+      <i>Principal Investigator</i>
+    </td>
+    <td align="center">
+      <a href="link_to_profile">
+        <img src="https://github.com/github.png" width="100px;" alt="" style="border-radius:50%"/>
+      </a>
+      <br />
+      <sub><b>Researcher A</b></sub><br />
+      <i>Postdoc</i>
+    </td>
+    <td align="center">
+      <a href="link_to_profile">
+        <img src="https://github.com/github.png" width="100px;" alt="" style="border-radius:50%"/>
+      </a>
+      <br />
+      <sub><b>Student B</b></sub><br />
+      <i>PhD Candidate</i>
+    </td>
+     <td align="center">
+      <a href="link_to_profile">
+        <img src="https://github.com/github.png" width="100px;" alt="" style="border-radius:50%"/>
+      </a>
+      <br />
+      <sub><b>Student C</b></sub><br />
+      <i>PhD Candidate</i>
+    </td>
   </tr>
 </table>
 
@@ -77,21 +116,24 @@ We are a diverse team of researchers, engineers, and students passionate about A
 ## 🤝 Join Us
 
 We are always looking for motivated students and collaborators interested in **Trustworthy Embodied AI**.
-If you are interested in working with us:
-1.  Read our [Recent Publications](../Publications/Publications.md).
-2.  Send an email to `contact@your-lab.edu` with your CV and a brief statement of interest.
+
+**Open Positions:**
+* **PhD Students:** Strong background in ML/Robotics.
+* **Research Interns:** Familiar with PyTorch/ROS.
+
+<details>
+<summary>👉 <b>Click to see how to apply</b></summary>
+<br>
+
+1. Read our [Recent Publications](../Publications/Publications.md) to ensure a research fit.
+2. Send an email to `contact@your-lab.edu`.
+3. Subject: `[Application] PhD/Intern - Your Name`.
+4. Attach your CV and a brief statement of interest.
+
+</details>
+
+<br>
 
 <div align="center">
-  <br>
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
-
-
-
-
-
-
-
-
-
-
