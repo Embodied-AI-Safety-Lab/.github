@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=EASL+Logo" width="120" height="120" alt="Lab Logo">
+  <img src="../logo/logo.png"  alt="Lab Logo">
   
   <h1>Embodied AI Safety Lab</h1>
   
@@ -106,3 +106,4 @@ If you are interested in working with us:
   <br>
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
