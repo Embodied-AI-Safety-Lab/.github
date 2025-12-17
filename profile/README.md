@@ -27,39 +27,21 @@
 Welcome to the **Embodied AI Safety Lab**. We are dedicated to bridging the gap between advanced artificial intelligence and safe physical deployment. Our research focuses on identifying vulnerabilities in robotic perception and control, developing robust defense mechanisms, and ensuring human-robot value alignment.
 
 ### 🛡️ Our Core Research Areas
-| **Robust Perception** | **Safe Reinforcement Learning** | **Sim2Real Transfer** | **Adversarial Security** |
-|:---:|:---:|:---:|:---:|
-| 👁️ | 🧠 | 🌉 | ⚔️ |
-| Defending vision systems against environmental perturbations and attacks. | Constrained exploration and safe policy optimization for robotics. | Ensuring safety guarantees hold when moving from simulation to reality. | Testing physical agents against adversarial examples and sensor spoofing. |
+
+
 
 ---
 
 ## 📢 News & Updates
 
-* **[2024-05]** 🎉 Two papers accepted to **ICRA 2024** regarding safe navigation!
-* **[2024-02]** 🏆 Our paper on *Adversarial Robotic Vision* won the Best Paper Award at the AI Safety Workshop.
-* **[2023-12]** 🚀 We have released the `SafeBench` simulation environment v1.0.
+* **[2024-05]** 🎉 
+* **[2024-02]** 🏆 
+* **[2023-12]** 🚀 
 
 ---
 
 ## 📚 Featured Publications
 
-### 2024
-* **"Towards Provable Safety in Embodied Agents via Control Barrier Functions"**
-    * *Alice Chen, Bob Smith, Carol Zhang*
-    * **ICRA 2024**
-    * [📄 PDF](#) | [💻 Code](#) | [🌐 Project Page](#)
-
-* **"Attack-Resilient Visual Servoing for Manipulators"**
-    * *David Lee, Alice Chen*
-    * **CVPR 2024**
-    * [📄 PDF](#) | [💻 Code](#) | [🌐 Project Page](#)
-
-### 2023
-* **"Benchmarking Robustness in Vision-Language Navigation"**
-    * *Team Member A, Team Member B*
-    * **NeurIPS 2023 (Oral)**
-    * [📄 PDF](#) | [💻 Code](#) | [🌐 Project Page](#)
 
 ---
 
@@ -105,5 +87,6 @@ If you are interested in working with us:
   <br>
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
 
