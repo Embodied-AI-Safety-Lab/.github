@@ -66,7 +66,7 @@ We believe in open science and reproducible research.
 
 ## 👥 Team
 
-We are a diverse team of researchers, engineers, and students passionate about AI Safety.
+We are a diverse team of researchers, engineers, and students passionate about Embodied AI Safety.
 
 <table>
   <tr>
@@ -124,5 +124,6 @@ We are always looking for motivated students and collaborators interested in **T
 <div align="center">
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
 
