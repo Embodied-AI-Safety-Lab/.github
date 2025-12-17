@@ -53,7 +53,7 @@ We believe in open science. Here are some of our maintained repositories:
 | :--- | :--- | :--- |
 | **[🧠 Project](#)** | Description | Tech Stack |
 
-> *Check our [Repositories](https://github.com/orgs/YourOrgName/repositories) tab for a complete list of our work.*
+> *Check our [Repositories](https://github.com/orgs/Embodied-AI-Safety-Lab/repositories) tab for a complete list of our work.*
 
 ---
 
@@ -85,6 +85,7 @@ If you are interested in working with us:
   <br>
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
 
 
