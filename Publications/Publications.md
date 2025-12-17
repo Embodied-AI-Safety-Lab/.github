@@ -11,15 +11,12 @@
 
 ---
 
-## 2024
+## 2025
 
-### ** aaaaaaaaaaaaaaaa a'
-**Alice Chen\*, Bob Smith\*, Carol Zhang** (* Equal Contribution)
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+### ** aaaaaaaaaaaaaaaaa'
 
 [![PDF](https://img.shields.io/badge/PDF-Download-red?logo=adobe-acrobat&style=flat-square)](#)
 [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github&style=flat-square)](#)
-[![Project Page](https://img.shields.io/badge/Web-Project_Page-blue?style=flat-square)](#)
 
 <details>
 <summary><b>BibTeX</b></summary>
@@ -31,4 +28,5 @@
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
+
 
