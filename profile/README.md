@@ -1,7 +1,6 @@
 <div align="center">
   <img src="../logo/logo.png"  alt="Lab Logo">
   
-  <h1>Embodied AI Safety Lab</h1>
   
   <p>
     <strong>Ensuring the Robustness, Security, and Alignment of Intelligent Agents in the Physical World.</strong>
@@ -106,4 +105,5 @@ If you are interested in working with us:
   <br>
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
