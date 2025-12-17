@@ -51,9 +51,7 @@ We believe in open science. Here are some of our maintained repositories:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[🤖 RoboGuard](#)** | An adversarial attack toolbox specifically designed for robotic perception pipelines. | `Python` `PyTorch` `ROS` |
-| **[🛑 Safety-Gym-Real](#)** | A suite of safety-critical benchmarks for real-world quadruped robots. | `MuJoCo` `Isaac Gym` |
-| **[🧠 Verifiable-RL](#)** | Formal verification tools for deep reinforcement learning policies. | `C++` `Python` |
+| **[🧠 Project](#)** | Description | Tech Stack |
 
 > *Check our [Repositories](https://github.com/orgs/YourOrgName/repositories) tab for a complete list of our work.*
 
@@ -79,7 +77,7 @@ We are a diverse team of researchers, engineers, and students passionate about A
 
 We are always looking for motivated students and collaborators interested in **Trustworthy Embodied AI**.
 If you are interested in working with us:
-1.  Read our [Recent Publications](#).
+1.  Read our [Recent Publications](../publication/Publication.md).
 2.  Check out our [Open Positions](#).
 3.  Send an email to `contact@your-lab.edu` with your CV and a brief statement of interest.
 
@@ -87,6 +85,7 @@ If you are interested in working with us:
   <br>
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
 
 
