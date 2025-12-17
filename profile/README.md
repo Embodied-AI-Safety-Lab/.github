@@ -6,19 +6,17 @@
 
   <p>
     <a href="https://your-lab-website.com">
-      <img src="https://img.shields.io/badge/Website-Visit_Us-0056D2?style=for-the-badge&logo=safari&logoColor=white" alt="Website">
+      <img src="https://img.shields.io/badge/Website-Visit_Us-blue?style=flat&logo=safari" alt="Website">
     </a>
     <a href="https://twitter.com/your_lab">
-      <img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+      <img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=flat&logo=twitter" alt="Twitter">
     </a>
     <a href="mailto:contact@your-lab.edu">
-      <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=flat&logo=gmail" alt="Email">
     </a>
+     <img src="https://img.shields.io/badge/Focus-Embodied_AI_Safety-success?style=flat" alt="Focus">
   </p>
-   <p>
-    <img src="https://img.shields.io/badge/Focus-Embodied_AI_Safety-2ea44f?style=flat-square" alt="Focus">
-    <img src="https://img.shields.io/badge/Research-Robotics_&_Vision-blueviolet?style=flat-square" alt="Research">
-  </p>
+  
 </div>
 
 <br />
@@ -124,6 +122,7 @@ We are always looking for motivated students and collaborators interested in **T
 <div align="center">
   <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
 
 
