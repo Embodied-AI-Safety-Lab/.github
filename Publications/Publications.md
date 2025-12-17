@@ -2,21 +2,18 @@
 
 > A complete collection of our conference papers, journal articles, and preprints focused on embodied AI safety, robust perception, and robot control.
 
-[**⬅️ Back to Lab Home**](./README.md)
+[**⬅️ Back to Lab Home**](https://github.com/Embodied-AI-Safety-Lab)
 
 ---
 
 ## 📌 Selected Highlights
 *Papers that we believe represent our most impactful work.*
 
-* 🏆 **[CVPR 2024] Best Paper Finalist** - *Adversarial Robustness in Vision-Language Navigation*
-* 🔥 **[NeurIPS 2023] Oral Presentation** - *Safe Reinforcement Learning via Control Barrier Functions*
-
 ---
 
 ## 2024
 
-### **[CVPR] Robust Perception for Embodied Agents in Dynamic Environments**
+### ** aaaaaaaaaaaaaaaa a'
 **Alice Chen\*, Bob Smith\*, Carol Zhang** (* Equal Contribution)
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
@@ -34,3 +31,4 @@
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
+
