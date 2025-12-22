@@ -120,8 +120,9 @@ We are always looking for motivated students and collaborators interested in **T
 
 
 <div align="center">
-  <sub>&copy; 2024 Embodied AI Safety Lab. All rights reserved.</sub>
+  <sub>&copy; 2025 Embodied AI Safety Lab. All rights reserved.</sub>
 </div>
+
 
 
 
